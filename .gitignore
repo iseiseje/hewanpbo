@@ -1,0 +1,9 @@
+# Database lokal aplikasi dan berkas SQLite sementara.
+pethotel.db
+pethotel.db-journal
+pethotel.db-shm
+pethotel.db-wal
+
+# Cache bytecode Python.
+__pycache__/
+*.py[cod]
